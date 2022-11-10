@@ -11,6 +11,7 @@ For this excercise, let's assume you work as a data analyst at a Healthcare star
 
 JSON and CSV are two of the most popular formats for storing and processing data.
 
+## Learning Objectives
 
 1. Build on Python skills you learned in the previous unit by expanding your knowledge of writing, reading, and parsing data in formats like JSON and CSV.
 2. Learn how to use Python libraries like Pandas and json.
